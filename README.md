@@ -1,5 +1,7 @@
 # ReactJS
 
+- [Exploring a create-react-app project](https://github.com/uname-sandeepb/reactjs#exploring-a-create-react-app-project)
+
 ### Exploring a `create-react-app` project
 
 - **src**: Folder where we put all the source code we write
